@@ -1,3 +1,6 @@
+For some readon the images are not loading but this is the website... I will make sure the images work in the second implementation of my site
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

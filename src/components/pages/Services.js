@@ -4,7 +4,11 @@ import './Services.css';
 
 import Carousel from 'react-bootstrap/Carousel';
 import { Button } from '../Button';
-//import nhl from '../../nhl.jpeg';
+import sharks2 from '../../images/sharks2.jpg';
+import nhl2 from '../../images/nhl2.jpeg';
+import sharks4 from '../../images/sharks4.jpg';
+import nhl3 from '../../images/nhl3.jpeg';
+import dribbling from '../../images/dribbling.jpeg';
 
 
 function Services() {
@@ -23,7 +27,7 @@ function Services() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                //imageSrc={nhl}
+                src={nhl2}
                 alt="Offensive Drills"
               />
               <Carousel.Caption>
@@ -34,7 +38,7 @@ function Services() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                //Imagerc= {nhl}
+                src={sharks2}
                 alt="Shooting Drills"
               />
               <Carousel.Caption>
@@ -45,7 +49,7 @@ function Services() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src='/images/sharks4.jpg'
+                src={sharks4}
                 alt="Goalie Drills"
               />
               <Carousel.Caption>
@@ -56,7 +60,7 @@ function Services() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src='/images/sharks1.jpg'
+                src={nhl3}
                 alt="Stickhandling Drills"
               />
               <Carousel.Caption>
@@ -67,7 +71,7 @@ function Services() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src='/images/sharks2.jpg'
+                src={dribbling}
                 alt="Defensive Drills"
               />
               <Carousel.Caption>
