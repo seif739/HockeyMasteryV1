@@ -21,7 +21,7 @@ function Services() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src='./images/nhl2.jpeg'
+                src='/images/nhl2.jpeg'
                 alt="Offensive Drills"
               />
               <Carousel.Caption>
@@ -32,7 +32,7 @@ function Services() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src='./images/nhl.jpeg'
+                src='/images/nhl.jpeg'
                 alt="Shooting Drills"
               />
               <Carousel.Caption>
@@ -43,7 +43,7 @@ function Services() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src='./images/sharks4.jpg'
+                src='/images/sharks4.jpg'
                 alt="Goalie Drills"
               />
               <Carousel.Caption>
@@ -54,7 +54,7 @@ function Services() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src='./images/sharks1.jpg'
+                src='/images/sharks1.jpg'
                 alt="Stickhandling Drills"
               />
               <Carousel.Caption>
