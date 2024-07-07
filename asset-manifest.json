@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HockeyMasteryV1/static/css/main.8c685c1e.css",
+    "main.js": "/HockeyMasteryV1/static/js/main.e1b768e0.js",
+    "static/media/video5.mp4": "/HockeyMasteryV1/static/media/video5.72a7a1640d534bf4b564.mp4",
+    "static/media/logo.jpg": "/HockeyMasteryV1/static/media/logo.9d41901f2c3c95218432.jpg",
+    "static/media/nhl2.jpeg": "/HockeyMasteryV1/static/media/nhl2.817ef9f3bb1ea7b208cb.jpeg",
+    "index.html": "/HockeyMasteryV1/index.html",
+    "main.8c685c1e.css.map": "/HockeyMasteryV1/static/css/main.8c685c1e.css.map",
+    "main.e1b768e0.js.map": "/HockeyMasteryV1/static/js/main.e1b768e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c685c1e.css",
+    "static/js/main.e1b768e0.js"
+  ]
+}
