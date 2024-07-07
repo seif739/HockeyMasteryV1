@@ -2,6 +2,16 @@ import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
 
+import nhl from '../images/nhl.jpeg';
+import nhl2 from '../images/nhl2.jpeg';
+import sharks1 from '../images/sharks1.jpg';
+import shootout from '../images/shootout.jpeg';
+import sharks2 from '../images/sharks2.jpg';
+import sharks4 from '../images/sharks4.jpg';
+
+
+
+
 function Cards() {
   return (
     <div className='cards'>
@@ -11,19 +21,19 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='./images/shootout.jpeg'
+             img src={nhl} alt='Hockey Mastery' className='navbar-logo-image'
               text='Lorem ipsum dolor sit amet, consectetur adipiscing elit'
               label="Offensive Drills"
               path='/services'
             />
             <CardItem
-              src='./images/sharks2.jpg'
+             img src={sharks2} alt='Hockey Mastery' className='navbar-logo-image'
               text='Lorem ipsum dolor sit amet, consectetur adipiscing elit'
               label='Shooting Drills'
               path='/services'
             />
             <CardItem
-              src='./images/sharks1.jpg'
+              img src={sharks1} alt='Hockey Mastery' className='navbar-logo-image'
               text='Lorem ipsum dolor sit amet, consectetur adipiscing elit'
               label='Analysis of NHL Games'
               path='/services'
@@ -31,19 +41,19 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='./images/sharks4.jpg'
+             img src={sharks4} alt='Hockey Mastery' className='navbar-logo-image'
               text='Lorem ipsum dolor sit amet, consectetur adipiscing elit'
               label='Goalie Drill'
               path='/services'
             />
             <CardItem
-              src='./images/nhl.jpeg'
+             img src={nhl2} alt='Hockey Mastery' className='navbar-logo-image'
               text='Lorem ipsum dolor sit amet, consectetur adipiscing elit'
               label='Stickhandling Drills'
               path='/products'
             />
             <CardItem
-              src='./images/faceoff.jpeg'
+              img src={shootout} alt='Hockey Mastery' className='navbar-logo-image'
               text='Lorem ipsum dolor sit amet, consectetur adipiscing elit'
               label='Defensive Drills'
               path='/sign-up'

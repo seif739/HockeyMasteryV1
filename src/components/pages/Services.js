@@ -4,6 +4,8 @@ import './Services.css';
 
 import Carousel from 'react-bootstrap/Carousel';
 import { Button } from '../Button';
+//import nhl from '../../nhl.jpeg';
+
 
 function Services() {
   return (
@@ -21,7 +23,7 @@ function Services() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src='/images/nhl2.jpeg'
+                //imageSrc={nhl}
                 alt="Offensive Drills"
               />
               <Carousel.Caption>
@@ -32,7 +34,7 @@ function Services() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src='/images/nhl.jpeg'
+                //Imagerc= {nhl}
                 alt="Shooting Drills"
               />
               <Carousel.Caption>
@@ -65,7 +67,7 @@ function Services() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src='./images/sharks2.jpg'
+                src='/images/sharks2.jpg'
                 alt="Defensive Drills"
               />
               <Carousel.Caption>
