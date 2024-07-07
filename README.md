@@ -1,4 +1,4 @@
-For some readon the images are not loading but this is the website... I will make sure the images work in the second implementation of my site
+Sometimes the website will direct you to my project1 website (Torino Barbershop) whenever reloading the page... Just add '/HockeyMasteryV1' in the URL and it will be fine.
 
 
 # Getting Started with Create React App
