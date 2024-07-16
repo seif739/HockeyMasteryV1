@@ -1,4 +1,4 @@
-Sometimes the website will direct you to my project1 website (Torino Barbershop) whenever reloading the page... Just add '/HockeyMasteryV1' in the URL and it will be fine.
+Sometimes the website will direct you to my project1 website (Torino Barbershop) whenever reloading the page... Just add '/HockeyMasteryV1' in the URL and it will be fine... And if for some reason nothing loads when opening my website, just click on any nav bar items and it will load in.
 
 
 # Getting Started with Create React App
